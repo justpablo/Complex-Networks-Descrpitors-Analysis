@@ -1,3 +1,5 @@
+### Company: Universitat Politecnica de Catalunya
+### Professor: Alex Arenas 
 ### Name: Structural Descriptors of Complex Networks
 ### Author: Pablo Eliseo Reynoso Aguirre
 ### Date: March 19, 2017
