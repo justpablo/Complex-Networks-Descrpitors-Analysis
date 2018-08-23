@@ -14,5 +14,5 @@
                 f) Average path length (average distance between all pairs of nodes)
                 g) Diameter (maximum distance between nodes in the network)
 
-                NOTE: The descriptors should be extracted from the networks from the three categories:
+                NOTE: The descriptors should be extracted from the networks of the three categories:
                 toy (sample networks), model (networks generated from models), and real (real networks).
